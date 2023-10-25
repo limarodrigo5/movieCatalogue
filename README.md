@@ -9,6 +9,9 @@ Bem-vindo ao Movie Catologue! Esse projeto foi desenvolvido com o intuito de cat
   - Banco de dados `SQLite` integrado com `Knex` para gerenciamento de queries e migrations.
 - **Estrutura de diretórios** padrão MVC.
 
+![Estrutura do Movie Catalogue](https://imgur.com/4VsaBBh.png)
+![Funcionalidade de cada campo](https://imgur.com/dsVAxQQ.png)
+
 ## 🚀 Como usar
 
 1. **Clone o repositório**:
