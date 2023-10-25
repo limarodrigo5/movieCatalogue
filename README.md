@@ -33,4 +33,6 @@ npm run start
 
 Prontinho! Agora o servidor estará rodando na porta definida e você já pode começar a usar a API do Movie Catologue.
 
+Foram utilizados os softwares [Insomnia](https://insomnia.rest/download) para montagem da API e [Beekeeper Studio](https://www.beekeeperstudio.io/get) para visualização dos dados.
+
 Desenvolvido por Rodrigo Lima
